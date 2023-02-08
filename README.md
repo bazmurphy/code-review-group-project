@@ -95,7 +95,7 @@ Take it easy and have some fun.
 
 Your group doesn't need to plan much for this, it's a group exercise not a full
 project. There's no need for a backlog, dev-strategy, wireframe, ... all you
-need is a a [project board](https://docs.github.com/en/github-ae@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board#creating-a-repository-project-board) with:
+need is a a project board with:
 
 - _todo_ - solutions someone wants to try writing
 - _doing_ - the solution you are currently working on
